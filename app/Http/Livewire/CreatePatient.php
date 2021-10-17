@@ -33,7 +33,7 @@ class CreatePatient extends Component
 
         session()->flash('message', 'Patient successfully created.');
 
-        return redirect()->route('dashboard.patients');
+        return redirect()->route('patients');
     }
 
     public function render()
