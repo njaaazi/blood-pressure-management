@@ -20,7 +20,7 @@ class DatabaseSeeder extends Seeder
         $nurse = User::factory()->create(
             [
                 'name' => 'Admin',
-                'email' => 'admin@circlelink.com',
+                'email' => 'admin@test.com',
             ]
         );
 
