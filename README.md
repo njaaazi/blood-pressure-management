@@ -14,7 +14,7 @@ After installing migrate and run database seeder to see records.
 
 An admin user will be created which you can uset too see all the records:
 ```
-admin@circlelink.com
+admin@test.com
 password
 ```
 
